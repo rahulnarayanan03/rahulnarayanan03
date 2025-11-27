@@ -25,7 +25,7 @@ I’m Rahul, a mechatronic engineering student at UTS, graduating in November 20
 - I optimise daily life for efficiency and sustainability
 - Love ICE Cars
 - I plan to live a fully solar-powered lifestyle
-- Chess, Pokémon, Clash Royale, and Halo keep my competitive side sharp
+- Chess, Clash Royale, and Halo keep my competitive side sharp
 
 ### 📫 Connect with me
 - [LinkedIn] https://www.linkedin.com/in/rahul-narayanan-mtrn/
