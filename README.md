@@ -1,31 +1,36 @@
-## Hi there 👋
+# Hi, I’m Rahul 👋
+Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75
 
-I’m Rahul, a mechatronic engineering student at UTS, graduating in November 2026. I enjoy building projects that combine mechanical, electrical, and software components, especially ones with real-world impact.
+I build robots and autonomous systems that actually work in the real world.
 
-### 🔭 Currently working on -
-- Developing my capstone project: an Autonomous Cooling Cart that integrates mechanical design, electronics, LiDAR, UWB tracking, and AI-powered computer vision for autonomous navigation.
+### 🚀 Highlight Projects
+| Project                        | Year | Key Tech                                  | Result / Link                                      |
+|--------------------------------|------|-------------------------------------------|----------------------------------------------------|
+| Autonomous Cooling Cart (Capstone) | 2026 | Raspberry Pi 5, ROS2, YOLOv8, UWB + LiDAR fusion, path-planning | In progress – [Live repo](https://github.com/rahulnarayanan03/Capstone) |
+| Autonomous Follow-Me TurtleBot | 2025 | ROS2 Humble, YOLOv8, RPLIDAR, OpenCV, PID | High Distinction – [Code](https://github.com/rahulnarayanan03/Sensors) | 
+| Car Safety System              | 2024 | Arduino, ultrasonics, real-time filtering | High Distinction – [Code](https://github.com/rahulnarayanan03/Model-Car-Safety-System) |
 
-### 🌱 Currently learning
-- Advanced robotics and automation techniques
-- State-of-the-art AI and computer vision (YOLOv8, OpenCV, prompt engineering)
+### 🛠 Tech Stack
+**Robotics & Software**  
+ROS2 • C++ • Python • YOLOv8 • OpenCV • PyTorch inference • MATLAB/Simulink • Git
 
-### 💻 Skills
-- **Programming:** C++, Python, MATLAB  
-- **AI & Computer Vision:** YOLOv8, OpenCV, Prompt Engineering  
-- **Embedded & Mechatronic Systems:** Arduino, STM-32, Raspberry Pi, LiDAR integration, UWB tracking, Path Planning, Localisation, Drive Systems 
-- **Mechanical & Fabrication:** Machining, Welding, Drilling, Riveting, Machine Assembly
-- **Electrical:** Circuit Analysis, Multimeters and Oscilloscopes, Wiring, Soldering, PCB Assembly  
+**Embedded**  
+Raspberry Pi • Arduino • STM32 • LiDAR • UWB • PWM motor control
+
+**Fabrication**  
+MIG welding • machining • sheet-metal work • PCB soldering
 
 ### 🤝 Looking to collaborate on
-- Robotic projects
-- Autonomous vehicles or drones (RC or full-scale)
-- AI + embedded systems projects
+- Robotic projects  
+- Autonomous vehicles or drones (RC or full-scale)  
+- AI + embedded systems projects  
 
 ### ⚡ Fun facts
-- I optimise daily life for efficiency and sustainability
-- Love ICE Cars
-- I plan to live a fully solar-powered lifestyle
-- Chess, Clash Royale, and Halo keep my competitive side sharp
+- I optimise daily life for efficiency and sustainability  
+- Passionate about ICE cars and engineering design  
+- Planning a fully solar-powered lifestyle  
+- Competitive gamer: Chess, Clash Royale, and Halo
 
-### 📫 Connect with me
-- [LinkedIn] https://www.linkedin.com/in/rahul-narayanan-mtrn/
+
+### 📫 Let’s connect
+[linkedin.com/in/rahul-narayanan-mtrn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
