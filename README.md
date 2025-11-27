@@ -28,4 +28,4 @@ I’m Rahul, a mechatronic engineering student at UTS, graduating in November 20
 - Chess, Pokémon, Clash Royale, and Halo keep my competitive side sharp
 
 ### 📫 Connect with me
-- [LinkedIn] https://www.linkedin.com/in/rahulnarayanan03](https://www.linkedin.com/in/rahul-narayanan-mtrn/
+- [LinkedIn] https://www.linkedin.com/in/rahul-narayanan-mtrn/
