@@ -21,18 +21,21 @@ I build robots and autonomous systems that actually work in the real world.
 <td>
 
 **Robotics & Software**  
+---
 ROS2 • C++ • Python • YOLOv8 • OpenCV • PyTorch inference • MATLAB/Simulink • Git
 
 </td>
 <td>
 
 **Embedded**  
+---
 Raspberry Pi • Arduino • STM32 • LiDAR • UWB • PWM motor control
 
 </td>
 <td>
 
-**Fabrication**  
+**Fabrication** 
+---
 MIG welding • machining • sheet-metal work • PCB soldering
 
 </td>
