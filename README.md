@@ -1,5 +1,5 @@
 # Hi, I’m Rahul 👋
-![ROS2]([https://img.shields.io/badge/ROS2-Humble-blue?logo=ros](https://docs.ros.org/en/humble/index.html))
+![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros)(https://docs.ros.org/en/humble/index.html)
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B) 
 ![Python](https://img.shields.io/badge/Python-3.11-yellow?logo=python) 
 ![YOLOv8](https://github.com/ultralytics/ultralytics) <br>
