@@ -18,17 +18,17 @@ I build robots and autonomous systems that actually work in the real world.
     <td>
       <b>Year:</b> 2026<br>
       <b>Key Tech:</b> Raspberry Pi 5, ROS2, YOLOv8, UWB + LiDAR, Camera, Path-Planning<br>
-      <b>Result / Link:</b> In progress – [Live repo](https://github.com/rahulnarayanan03/Capstone)
+      <b>Result / Link:</b> In progress – <a href="https://github.com/rahulnarayanan03/Capstone">Live repo</a>
     </td>
     <td>
       <b>Year:</b> 2025<br>
       <b>Key Tech:</b> ROS1 Noetic, YOLOv8, LIDAR, MATLAB<br>
-      <b>Result / Link:</b> High Distinction – [Code](https://github.com/rahulnarayanan03/Sensors)
+      <b>Result / Link:</b> High Distinction – <a href="https://github.com/rahulnarayanan03/Sensors">Code</a>
     </td>
     <td>
       <b>Year:</b> 2024<br>
       <b>Key Tech:</b> Arduino, Ultrasonics, Real-Time Filtering<br>
-      <b>Result / Link:</b> High Distinction – [Code](https://github.com/rahulnarayanan03/Model-Car-Safety-System)
+      <b>Result / Link:</b> High Distinction – <a href="https://github.com/rahulnarayanan03/Model-Car-Safety-System">Code</a>
     </td>
   </tr>
 </table>
