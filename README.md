@@ -7,13 +7,31 @@
 Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75% • First Class Honours  
 I build robots and autonomous systems that actually work in the real world.
 
-### 🚀 Projects Highlights
-
-| Project | Year | Key Tech | Result / Link |
-|--------|------|----------|----------------|
-| Autonomous Cooling Cart (Capstone) | 2026 | Raspberry Pi 5, ROS2, YOLOv8, UWB + LiDAR, Camera, Path-Planning | In progress – [Live repo](https://github.com/rahulnarayanan03/Capstone) |
-| Autonomous Follow-Me TurtleBot | 2025 | ROS1 Noetic, YOLOv8, LIDAR, MATLAB | High Distinction – [Code](https://github.com/rahulnarayanan03/Sensors) |
-| Car Safety System | 2024 | Arduino, Ultrasonics, Real-Time Filtering | High Distinction – [Code](https://github.com/rahulnarayanan03/Model-Car-Safety-System) |
+### 🚀 Project Highlights
+<table>
+  <tr>
+    <th>Autonomous Cooling Cart (Capstone)</th>
+    <th>Autonomous Follow-Me TurtleBot</th>
+    <th>Model Car Safety System</th>
+  </tr>
+  <tr>
+    <td>
+      <b>Year:</b> 2026<br>
+      <b>Key Tech:</b> Raspberry Pi 5, ROS2, YOLOv8, UWB + LiDAR, Camera, Path-Planning<br>
+      <b>Result / Link:</b> In progress – [Live repo](https://github.com/rahulnarayanan03/Capstone)
+    </td>
+    <td>
+      <b>Year:</b> 2025<br>
+      <b>Key Tech:</b> ROS1 Noetic, YOLOv8, LIDAR, MATLAB<br>
+      <b>Result / Link:</b> High Distinction – [Code](https://github.com/rahulnarayanan03/Sensors)
+    </td>
+    <td>
+      <b>Year:</b> 2024<br>
+      <b>Key Tech:</b> Arduino, Ultrasonics, Real-Time Filtering<br>
+      <b>Result / Link:</b> High Distinction – [Code](https://github.com/rahulnarayanan03/Model-Car-Safety-System)
+    </td>
+  </tr>
+</table>
 
 ### 🛠 Tech Stack
 <table>
