@@ -8,7 +8,7 @@ I build robots and autonomous systems that actually work in the real world.
 |------------------------------------|------|------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Autonomous Cooling Cart (Capstone) | 2026 | Raspberry Pi 5, ROS2, YOLOv8, UWB + LiDAR, Camera, Path-Planning | In progress – [Live repo](https://github.com/rahulnarayanan03/Capstone)                |
 | Autonomous Follow-Me TurtleBot     | 2025 | ROS1 Noetic, YOLOv8, LIDAR, MATLAB                               | High Distinction – [Code](https://github.com/rahulnarayanan03/Sensors)                 | 
-| Car Safety System                  | 2024 | Arduino, ultrasonics, real-time filtering                        | High Distinction – [Code](https://github.com/rahulnarayanan03/Model-Car-Safety-System) |
+| Car Safety System                  | 2024 | Arduino, Ultrasonics, Real-Time Filtering                        | High Distinction – [Code](https://github.com/rahulnarayanan03/Model-Car-Safety-System) |
 
 ### 🛠 Tech Stack
 **Robotics & Software**  
