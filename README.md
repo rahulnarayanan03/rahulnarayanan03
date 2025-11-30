@@ -1,7 +1,7 @@
 # Hi, I’m Rahul 👋
-[![ROS2](https://img.shields.io/badge/ROS2-Humble-34AAC7?style=flat-square&logo=ros)](https://docs.ros.org/en/humble/)
-[![YOLOv8](https://img.shields.io/badge/YOLO-v8-00D4D4?style=flat-square)](https://github.com/ultralytics/ultralytics)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) <br>
+![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros) 
+![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B) 
+![Python](https://img.shields.io/badge/Python-3.11-yellow?logo=python) <br>
 Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75% • First Class Honours
 
 I build robots and autonomous systems that actually work in the real world.
