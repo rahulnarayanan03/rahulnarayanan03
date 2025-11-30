@@ -1,4 +1,8 @@
 # Hi, I’m Rahul 👋
+![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)
+![C++](https://img.shields.io/badge/C++-17-blue)
+![Python](https://img.shields.io/badge/Python-3.11-yellow)
+
 Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75% • First Class Honours
 
 I build robots and autonomous systems that actually work in the real world.
