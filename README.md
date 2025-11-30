@@ -41,14 +41,12 @@ MIG welding • machining • sheet-metal work • PCB soldering
  
 
 ### 🤝 Looking to collaborate on
-
 - Robotic projects  
 - Autonomous vehicles or drones (RC or full-scale)  
 - AI + embedded systems projects
  
 
 ### ⚙️ Interests  
-
 - Robotics  
 - Autonomous systems  
 - Efficient engineering design  
@@ -56,7 +54,6 @@ MIG welding • machining • sheet-metal work • PCB soldering
  
 
 ### 📘 Currently learning
-
 - Advanced AI model training  
 - ROS2 navigation and system design  
 - Embedded Linux  
@@ -65,13 +62,11 @@ MIG welding • machining • sheet-metal work • PCB soldering
  
 
 ### 🎯 Aiming for
-
 - Roles in robotics, autonomous systems, and applied AI  
 - Building intelligent machines that operate reliably in the real world  
  
 
 ### ⚡ Fun facts
-
 - I optimise daily life for efficiency and sustainability  
 - Passionate about ICE cars and engineering design  
 - Planning a fully solar-powered lifestyle  
