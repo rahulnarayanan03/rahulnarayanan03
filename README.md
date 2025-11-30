@@ -15,17 +15,17 @@ I build robots and autonomous systems that actually work in the real world.
     <th>Model Car Safety System</th>
   </tr>
   <tr>
-    <td>
+    <td valign="top">
       <b>Year:</b> 2026<br>
       <b>Key Tech:</b> Raspberry Pi 5, ROS2, YOLOv8, UWB + LiDAR, Camera, Path-Planning<br>
       <b>Result / Link:</b> In progress – <a href="https://github.com/rahulnarayanan03/Capstone">Live repo</a>
     </td>
-    <td>
+    <td valign="top">
       <b>Year:</b> 2025<br>
       <b>Key Tech:</b> ROS1 Noetic, YOLOv8, LIDAR, MATLAB<br>
       <b>Result / Link:</b> High Distinction – <a href="https://github.com/rahulnarayanan03/Sensors">Code</a>
     </td>
-    <td>
+    <td valign="top">
       <b>Year:</b> 2024<br>
       <b>Key Tech:</b> Arduino, Ultrasonics, Real-Time Filtering<br>
       <b>Result / Link:</b> High Distinction – <a href="https://github.com/rahulnarayanan03/Model-Car-Safety-System">Code</a>
@@ -41,7 +41,7 @@ I build robots and autonomous systems that actually work in the real world.
     <th>Mechanical</th>
   </tr>
   <tr>
-    <td>
+    <td valign="top">
       ROS2 <br>
       C++ <br>
       Python <br>
@@ -51,7 +51,7 @@ I build robots and autonomous systems that actually work in the real world.
       MATLAB/Simulink  <br>
       Git <br>
     </td>
-    <td>
+    <td valign="top">
       Raspberry Pi <br>
       Arduino <br>
       STM32 <br>
@@ -59,7 +59,7 @@ I build robots and autonomous systems that actually work in the real world.
       UWB <br>
       PWM Motor Control <br>
     </td>
-    <td>
+    <td valign="top">
       MIG Welding <br>
       Machining <br>
       Sheet-Metal Work <br>
