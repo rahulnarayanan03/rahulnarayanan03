@@ -1,5 +1,5 @@
 # Hi, I’m Rahul 👋
-Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75
+Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75% • First Class Honours
 
 I build robots and autonomous systems that actually work in the real world.
 
