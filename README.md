@@ -1,13 +1,16 @@
 # Hi, I’m Rahul 👋
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-0A66C2?logo=ros&logoColor=white)
-[![C++](https://img.shields.io/badge/C%2B%2B-17-6F42C1?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp/17)
-[![Python](https://img.shields.io/badge/Python-3.10-FFD43B?logo=python&logoColor=306998)](https://www.python.org/downloads/release/python-3100/)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-red) <br>
+[![C++](https://img.shields.io/badge/C%2B%2B-17-6F42C1?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp/17) 
+[![Python](https://img.shields.io/badge/Python-3.10-FFD43B?logo=python&logoColor=306998)](https://www.python.org/downloads/release/python-3100/) 
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-red)](https://github.com/ultralytics/ultralytics) <br>
 
 Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75% • First Class Honours  
 I build robots and autonomous systems that actually work in the real world.
 
-### 🚀 Project Highlights
+---
+
+### 🚀 Projects Highlights
+
 | Project | Year | Key Tech | Result / Link |
 |--------|------|----------|----------------|
 | Autonomous Cooling Cart (Capstone) | 2026 | Raspberry Pi 5, ROS2, YOLOv8, UWB + LiDAR, Camera, Path-Planning | In progress – [Live repo](https://github.com/rahulnarayanan03/Capstone) |
@@ -16,88 +19,86 @@ I build robots and autonomous systems that actually work in the real world.
 
 ---
 
-## 🛠 Tech Stack
-<div style="display: flex; gap: 40px;">
-
-<div>
+### 🛠 Tech Stack  
+<table>
+<tr>
+<td>
 
 **Robotics & Software**  
 ROS2 • C++ • Python • YOLOv8 • OpenCV • PyTorch inference • MATLAB/Simulink • Git
 
-</div>
-
-<div>
+</td>
+<td>
 
 **Embedded**  
 Raspberry Pi • Arduino • STM32 • LiDAR • UWB • PWM motor control
 
-</div>
-
-<div>
+</td>
+<td>
 
 **Fabrication**  
 MIG welding • machining • sheet-metal work • PCB soldering
 
-</div>
-
-</div>
-
----
-
-## 🤝 Looking to collaborate on
-<div style="columns: 2;">
-<ul>
-<li>Robotic projects</li>
-<li>Autonomous vehicles or drones (RC or full-scale)</li>
-<li>AI + embedded systems projects</li>
-</ul>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Interests
-<div style="columns: 2;">
-<ul>
-<li>Robotics</li>
-<li>Autonomous systems</li>
-<li>Efficient engineering design</li>
-<li>Practical AI</li>
-</ul>
-</div>
+### 🤝 Looking to collaborate on  
+<table><tr><td>
+
+- Robotic projects  
+- Autonomous vehicles or drones (RC or full-scale)  
+- AI + embedded systems projects  
+
+</td></tr></table>
 
 ---
 
-## 📘 Currently learning
-<div style="columns: 2;">
-<ul>
-<li>Advanced AI model training</li>
-<li>ROS2 navigation and system design</li>
-<li>Embedded Linux</li>
-<li>High-performance robotics systems</li>
-<li>Capstone development and testing</li>
-</ul>
-</div>
+### ⚙️ Interests  
+<table><tr><td>
+
+- Robotics  
+- Autonomous systems  
+- Efficient engineering design  
+- Practical AI  
+
+</td></tr></table>
 
 ---
 
-## 🎯 Aiming for
-<div style="columns: 2;">
-<ul>
-<li>Roles in robotics, autonomous systems, and applied AI</li>
-<li>Building intelligent machines that operate reliably in the real world</li>
-</ul>
-</div>
+### 📘 Currently learning
+<table><tr><td>
+
+- Advanced AI model training  
+- ROS2 navigation and system design  
+- Embedded Linux  
+- High-performance robotics systems  
+- Capstone development and testing  
+
+</td></tr></table>
 
 ---
 
-## ⚡ Fun facts
-<div style="columns: 2;">
-<ul>
-<li>I optimise daily life for efficiency and sustainability</li>
-<li>Passionate about ICE cars and engineering design</li>
-<li>Planning a fully solar-powered lifestyle</li>
-</ul>
-</div>
+### 🎯 Aiming for
+<table><tr><td>
+
+- Roles in robotics, autonomous systems, and applied AI  
+- Building intelligent machines that operate reliably in the real world  
+
+</td></tr></table>
+
+---
+
+### ⚡ Fun facts
+<table><tr><td>
+
+- I optimise daily life for efficiency and sustainability  
+- Passionate about ICE cars and engineering design  
+- Planning a fully solar-powered lifestyle  
+
+</td></tr></table>
 
 ---
 
