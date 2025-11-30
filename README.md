@@ -32,4 +32,4 @@ MIG welding • machining • sheet-metal work • PCB soldering
 
 
 ### 📫 Let’s connect
-[linkedin.com/in/rahul-narayanan-mtrn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
+[LinkedIn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
