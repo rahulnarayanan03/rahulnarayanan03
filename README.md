@@ -8,6 +8,7 @@ Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2
 I build robots and autonomous systems that actually work in the real world.
 
 ### 🚀 Project Highlights
+<div align="center">
 <table>
   <tr>
     <th>Autonomous Cooling Cart (Capstone)</th>
@@ -32,6 +33,7 @@ I build robots and autonomous systems that actually work in the real world.
     </td>
   </tr>
 </table>
+</div>
 
 ### 🛠 Tech Stack
 <div align="center">
