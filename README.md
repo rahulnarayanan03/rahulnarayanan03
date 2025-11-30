@@ -28,8 +28,7 @@ MIG welding • machining • sheet-metal work • PCB soldering
 ### ⚡ Fun facts
 - I optimise daily life for efficiency and sustainability  
 - Passionate about ICE cars and engineering design  
-- Planning a fully solar-powered lifestyle  
-- Competitive gamer: Chess, Clash Royale, and Halo
+- Planning a fully solar-powered lifestyle
 
 
 ### 📫 Let’s connect
