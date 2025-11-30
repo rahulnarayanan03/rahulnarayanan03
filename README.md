@@ -45,28 +45,13 @@ I build robots and autonomous systems that actually work in the real world.
   </tr>
   <tr>
     <td valign="top">
-      ROS2 <br>
-      C++ <br>
-      Python <br>
-      YOLOv8 <br>
-      OpenCV <br>
-      PyTorch Inference <br>
-      MATLAB/Simulink <br>
-      Git <br>
+      ROS2 • C++ • Python • YOLOv8 • OpenCV • PyTorch Inference • MATLAB/Simulink • Git
     </td>
     <td valign="top">
-      Raspberry Pi <br>
-      Arduino <br>
-      STM32 <br>
-      LiDAR <br>
-      UWB <br>
-      PWM Motor Control <br>
+      Raspberry Pi • Arduino • STM32 • LiDAR • UWB • PWM Motor Control
     </td>
     <td valign="top">
-      MIG Welding <br>
-      Machining <br>
-      Sheet-Metal Work <br>
-      PCB Soldering <br>
+      MIG Welding • Machining • Sheet-Metal Work • PCB Soldering
     </td>
   </tr>
 </table>
