@@ -1,6 +1,6 @@
 # Hi, I’m Rahul 👋
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-0A66C2?logo=ros&logoColor=white)
-[![C++](https://img.shields.io/badge/C%2B%2B-17-0099CC?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp/17) 
+[![C++](https://img.shields.io/badge/C%2B%2B-17-6F42C1?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp/17) 
 [![Python](https://img.shields.io/badge/Python-3.10-FFD43B?logo=python&logoColor=306998)](https://www.python.org/downloads/release/python-3100/) 
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-red)](https://github.com/ultralytics/ultralytics) <br>
 Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75% • First Class Honours
