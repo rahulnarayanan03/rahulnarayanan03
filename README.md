@@ -34,6 +34,7 @@ I build robots and autonomous systems that actually work in the real world.
 </table>
 
 ### 🛠 Tech Stack
+<div align="center">
 <table>
   <tr>
     <th>Mechatronics</th>
@@ -48,7 +49,7 @@ I build robots and autonomous systems that actually work in the real world.
       YOLOv8 <br>
       OpenCV <br>
       PyTorch Inference <br>
-      MATLAB/Simulink  <br>
+      MATLAB/Simulink <br>
       Git <br>
     </td>
     <td valign="top">
@@ -67,6 +68,7 @@ I build robots and autonomous systems that actually work in the real world.
     </td>
   </tr>
 </table>
+</div>
 
 ### 🤝 Looking to collaborate on
 - Robotic projects  
