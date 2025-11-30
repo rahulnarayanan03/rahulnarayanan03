@@ -6,7 +6,6 @@
 
 Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75% • First Class Honours  
 I build robots and autonomous systems that actually work in the real world.
-<br>
 
 ### 🚀 Projects Highlights
 
@@ -15,7 +14,6 @@ I build robots and autonomous systems that actually work in the real world.
 | Autonomous Cooling Cart (Capstone) | 2026 | Raspberry Pi 5, ROS2, YOLOv8, UWB + LiDAR, Camera, Path-Planning | In progress – [Live repo](https://github.com/rahulnarayanan03/Capstone) |
 | Autonomous Follow-Me TurtleBot | 2025 | ROS1 Noetic, YOLOv8, LIDAR, MATLAB | High Distinction – [Code](https://github.com/rahulnarayanan03/Sensors) |
 | Car Safety System | 2024 | Arduino, Ultrasonics, Real-Time Filtering | High Distinction – [Code](https://github.com/rahulnarayanan03/Model-Car-Safety-System) |
-<br>
 
 ### 🛠 Tech Stack  
 <table>
@@ -40,14 +38,14 @@ MIG welding • machining • sheet-metal work • PCB soldering
 </td>
 </tr>
 </table>
-<br>
+ 
 
 ### 🤝 Looking to collaborate on
 
 - Robotic projects  
 - Autonomous vehicles or drones (RC or full-scale)  
 - AI + embedded systems projects
-<br>
+ 
 
 ### ⚙️ Interests  
 
@@ -55,7 +53,7 @@ MIG welding • machining • sheet-metal work • PCB soldering
 - Autonomous systems  
 - Efficient engineering design  
 - Practical AI  
-<br>
+ 
 
 ### 📘 Currently learning
 
@@ -64,20 +62,20 @@ MIG welding • machining • sheet-metal work • PCB soldering
 - Embedded Linux  
 - High-performance robotics systems  
 - Capstone development and testing 
-<br>
+ 
 
 ### 🎯 Aiming for
 
 - Roles in robotics, autonomous systems, and applied AI  
 - Building intelligent machines that operate reliably in the real world  
-<br>
+ 
 
 ### ⚡ Fun facts
 
 - I optimise daily life for efficiency and sustainability  
 - Passionate about ICE cars and engineering design  
 - Planning a fully solar-powered lifestyle  
-<br>
+ 
 
 ### 📫 Let’s connect
 [LinkedIn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
