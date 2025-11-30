@@ -2,7 +2,7 @@
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros)
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B) 
 ![Python](https://img.shields.io/badge/Python-3.11-yellow?logo=python) 
-[![YOLOv8](https://img.shields.io/badge/YOLO-v8-00FFFF?style=flat-square&logo=yolo)](https://github.com/ultralytics/ultralytics) <br>
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-red)](https://github.com/ultralytics/ultralytics) <br>
 Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75% • First Class Honours
 
 I build robots and autonomous systems that actually work in the real world.
