@@ -18,19 +18,19 @@ I build robots and autonomous systems that actually work in the real world.
 ### 🛠 Tech Stack
 <table>
   <tr>
-    <th>Robotics & Software</th>
-    <th>Embedded</th>
-    <th>Fabrication</th>
+    <th>Mechatronics</th>
+    <th>Embedded Systems</th>
+    <th>Mechanical</th>
   </tr>
   <tr>
     <td>
       ROS2 • C++ • Python • YOLOv8 • OpenCV • PyTorch inference • MATLAB/Simulink • Git
     </td>
     <td>
-      Raspberry Pi • Arduino • STM32 • LiDAR • UWB • PWM motor control
+      Raspberry Pi • Arduino • STM32 • LiDAR • UWB • PWM Motor Control
     </td>
     <td>
-      MIG welding • machining • sheet-metal work • PCB soldering
+      MIG Welding • Machining • Sheet-Metal Work • PCB Soldering
     </td>
   </tr>
 </table>
