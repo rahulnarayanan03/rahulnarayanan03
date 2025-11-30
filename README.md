@@ -15,33 +15,25 @@ I build robots and autonomous systems that actually work in the real world.
 | Autonomous Follow-Me TurtleBot | 2025 | ROS1 Noetic, YOLOv8, LIDAR, MATLAB | High Distinction – [Code](https://github.com/rahulnarayanan03/Sensors) |
 | Car Safety System | 2024 | Arduino, Ultrasonics, Real-Time Filtering | High Distinction – [Code](https://github.com/rahulnarayanan03/Model-Car-Safety-System) |
 
-### 🛠 Tech Stack  
+### 🛠 Tech Stack
 <table>
-<tr>
-<td>
-
-**Robotics & Software**  
----
-ROS2 • C++ • Python • YOLOv8 • OpenCV • PyTorch inference • MATLAB/Simulink • Git
-
-</td>
-<td>
-
-**Embedded**  
----
-Raspberry Pi • Arduino • STM32 • LiDAR • UWB • PWM motor control
-
-</td>
-<td>
-
-**Fabrication** 
----
-MIG welding • machining • sheet-metal work • PCB soldering
-
-</td>
-</tr>
+  <tr>
+    <th>Robotics & Software</th>
+    <th>Embedded</th>
+    <th>Fabrication</th>
+  </tr>
+  <tr>
+    <td>
+      ROS2 • C++ • Python • YOLOv8 • OpenCV • PyTorch inference • MATLAB/Simulink • Git
+    </td>
+    <td>
+      Raspberry Pi • Arduino • STM32 • LiDAR • UWB • PWM motor control
+    </td>
+    <td>
+      MIG welding • machining • sheet-metal work • PCB soldering
+    </td>
+  </tr>
 </table>
- 
 
 ### 🤝 Looking to collaborate on
 - Robotic projects  
