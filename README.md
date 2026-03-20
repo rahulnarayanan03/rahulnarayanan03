@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10-FFD43B?logo=python&logoColor=306998)](https://www.python.org/downloads/release/python-3100/) 
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-red)](https://github.com/ultralytics/ultralytics) <br>
 
-Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75% • First Class Honours  
+Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75.67% • First Class Honours  
 I build robots and autonomous systems that actually work in the real world.
 
 ### 🚀 Project Highlights
