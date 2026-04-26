@@ -2,10 +2,12 @@
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-0A66C2?logo=ros&logoColor=white)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-6F42C1?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp/17) 
 [![Python](https://img.shields.io/badge/Python-3.10-FFD43B?logo=python&logoColor=306998)](https://www.python.org/downloads/release/python-3100/) 
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-red)](https://github.com/ultralytics/ultralytics) <br>
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-red)](https://github.com/ultralytics/ultralytics) 
 
 Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75.67% • First Class Honours  
-I build robots and autonomous systems that actually work in the real world.
+I design and build end-to-end autonomous robotic systems (perception, planning, control) that work reliably outside the lab.
+
+Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control • Real-time systems
 
 ### 🚀 Project Highlights
 <div align="center">
@@ -58,9 +60,9 @@ I build robots and autonomous systems that actually work in the real world.
 </div>
 
 ### 🤝 Looking to collaborate on
-- Robotic projects  
-- Autonomous vehicles or drones (RC or full-scale)  
-- AI + embedded systems projects
+- Autonomous robotics systems (perception, navigation, control)  
+- Outdoor/mobile robots (UGV, drones, RC-scale platforms)  
+- AI + embedded real-time systems
  
 
 ### ⚙️ Interests  
@@ -71,23 +73,27 @@ I build robots and autonomous systems that actually work in the real world.
  
 
 ### 📘 Currently learning
-- Advanced AI model training  
-- ROS2 navigation and system design  
-- Embedded Linux  
-- High-performance robotics systems  
-- Capstone development and testing 
+- Scaling real-time perception pipelines (YOLOv8 optimisation)  
+- ROS2 navigation stack (Nav2, localisation, path planning)  
+- Embedded Linux for robotics deployment  
+- High-reliability autonomous systems design   
  
 
 ### 🎯 Aiming for
 - Roles in robotics, autonomous systems, and applied AI  
 - Building intelligent machines that operate reliably in the real world  
- 
+
 
 ### ⚡ Fun facts
 - I optimise daily life for efficiency and sustainability  
 - Passionate about ICE cars and engineering design  
 - Planning a fully solar-powered lifestyle  
- 
 
-### 📫 Let’s connect
-[LinkedIn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
+
+### ⚡ Engineering philosophy
+- Build systems that work outside controlled environments
+- Prioritise reliability over demos
+- Design for real-world constraints (latency, noise, failure cases)
+
+
+### 📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
