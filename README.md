@@ -51,7 +51,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
   </tr>
   <tr>
     <td valign="top">
-      ROS2 <b>•</b> C++ <b>•</b> Python <b>•</b> YOLOv8 <b>•</b> OpenCV <b>•</b> PyTorch Inference <b>•</b> MATLAB/Simulink <b>•</b> Git
+      Python <b>•</b> C++ <b>•</b> ROS2 <b>•</b> YOLOv8 <b>•</b> OpenCV <b>•</b> PyTorch Inference <b>•</b> MATLAB/Simulink <b>•</b> Git
     </td>
     <td valign="top">
       Raspberry Pi <b>•</b> Arduino <b>•</b> STM32 <b>•</b> LiDAR <b>•</b> UWB <b>•</b> PWM Motor Control
