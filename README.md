@@ -7,7 +7,7 @@
 Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75.67% • First Class Honours  
 I design and build end-to-end autonomous robotic systems (perception, planning, control) that work reliably outside the lab.
 
-Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control • Real-time systems <br><br>
+Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control • Real-time systems
 
 
 ### 🚀 Project Highlights
@@ -37,7 +37,6 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
   </tr>
 </table>
 </div>
-<br>
 
 ### 🛠 Tech Stack
 <div align="center">
@@ -60,43 +59,36 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
   </tr>
 </table>
 </div>
-<br>
 
 ### 🤝 Looking to collaborate on
 - Autonomous robotics systems (perception, navigation, control)  
 - Outdoor/mobile robots (UGV, drones, RC-scale platforms)  
 - AI + embedded real-time systems
-<br>
 
 ### ⚙️ Interests  
 - Robotics  
 - Autonomous systems  
 - Efficient engineering design  
 - Practical AI  
-<br>
 
 ### 📘 Currently learning
-- Scaling real-time perception pipelines (YOLOv8 optimisation)  
-- ROS2 navigation stack (Nav2, localisation, path planning)  
-- Embedded Linux for robotics deployment  
-- High-reliability autonomous systems design   
-<br>
+- Scaling real-time perception pipelines (YOLOv8 optimisation)
+- ROS2 navigation stack (Nav2, localisation, path planning)
+- Embedded Linux for robotics deployment
+- High-reliability autonomous systems design
 
 ### 🎯 Aiming for
 - Roles in robotics, autonomous systems, and applied AI  
 - Building intelligent machines that operate reliably in the real world  
-<br>
 
 ### ⚡ Fun facts
 - I optimise daily life for efficiency and sustainability  
 - Passionate about ICE cars and engineering design  
 - Planning a fully solar-powered lifestyle  
-<br>
 
 ### ⚡ Engineering philosophy
 - Build systems that work outside controlled environments
 - Prioritise reliability over demos
 - Design for real-world constraints (latency, noise, failure cases)
-<br>
 
 ### 📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
