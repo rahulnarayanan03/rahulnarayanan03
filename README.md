@@ -38,7 +38,6 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 </table>
 </div>
 <br>
-
 ### 🛠 Tech Stack
 <div align="center">
 <table>
@@ -61,42 +60,35 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 </table>
 </div>
 <br>
-
 ### 🤝 Looking to collaborate on
 - Autonomous robotics systems (perception, navigation, control)
 - Outdoor/mobile robots (UGV, drones, RC-scale platforms)
 - AI + embedded real-time systems
 <br>
-
 ### ⚙️ Interests
 - Robotics
 - Autonomous systems
 - Efficient engineering design
 - Practical AI
 <br>
-
 ### 📘 Currently learning
 - Scaling real-time perception pipelines (YOLOv8 optimisation)
 - ROS2 navigation stack (Nav2, localisation, path planning)
 - Embedded Linux for robotics deployment
 - High-reliability autonomous systems design
 <br>
-
 ### 🎯 Aiming for
 - Roles in robotics, autonomous systems, and applied AI
 - Building intelligent machines that operate reliably in the real world
 <br>
-
 ### ⚡ Fun facts
 - I optimise daily life for efficiency and sustainability
 - Passionate about ICE cars and engineering design
 - Planning a fully solar-powered lifestyle
 <br>
-
 ### ⚡ Engineering philosophy
 - Build systems that work outside controlled environments
 - Prioritise reliability over demos
 - Design for real-world constraints (latency, noise, failure cases)
 <br>
-
 ### 📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
