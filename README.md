@@ -9,7 +9,7 @@ I design and build end-to-end autonomous robotic systems (perception, planning, 
 
 Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control • Real-time systems
 
-<div style="height: 14px;"></div>
+<div>&nbsp;</div>
 
 ### 🚀 Project Highlights
 <div align="center">
@@ -39,7 +39,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 </table>
 </div>
 
-<div style="height: 4px;"></div>
+<div>&nbsp;</div>
 
 ### 🛠 Tech Stack
 <div align="center">
@@ -63,14 +63,14 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 </table>
 </div>
 
-<div style="height: 4px;"></div>
+<div>&nbsp;</div>
 
 ### 🤝 Looking to collaborate on
 - Autonomous robotics systems (perception, navigation, control)
 - Outdoor/mobile robots (UGV, drones, RC-scale platforms)
 - AI + embedded real-time systems
 
-<div style="height: 4px;"></div>
+<div>&nbsp;</div>
 
 ### ⚙️ Interests
 - Robotics
@@ -78,7 +78,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 - Efficient engineering design
 - Practical AI
 
-<div style="height: 4px;"></div>
+<div>&nbsp;</div>
 
 ### 📘 Currently learning
 - Scaling real-time perception pipelines (YOLOv8 optimisation)
@@ -86,26 +86,26 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 - Embedded Linux for robotics deployment
 - High-reliability autonomous systems design
 
-<div style="height: 4px;"></div>
+<div>&nbsp;</div>
 
 ### 🎯 Aiming for
 - Roles in robotics, autonomous systems, and applied AI
 - Building intelligent machines that operate reliably in the real world
 
-<div style="height: 4px;"></div>
+<div>&nbsp;</div>
 
 ### ⚡ Fun facts
 - I optimise daily life for efficiency and sustainability
 - Passionate about ICE cars and engineering design
 - Planning a fully solar-powered lifestyle
 
-<div style="height: 4px;"></div>
+<div>&nbsp;</div>
 
 ### ⚡ Engineering philosophy
 - Build systems that work outside controlled environments
 - Prioritise reliability over demos
 - Design for real-world constraints (latency, noise, failure cases)
 
-<div style="height: 4px;"></div>
+<div>&nbsp;</div>
 
 ### 📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
