@@ -10,7 +10,7 @@ I design and build end-to-end autonomous robotic systems (perception, planning, 
 Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control • Real-time systems
 
 
-### 🚀 Project Highlights
+## 🚀 Project Highlights
 <div align="center">
 <table>
   <tr>
@@ -38,7 +38,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 </table>
 </div>
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 <div align="center">
 <table>
   <tr>
@@ -60,35 +60,35 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 </table>
 </div>
 
-### 🤝 Looking to collaborate on
+## 🤝 Looking to collaborate on
 - Autonomous robotics systems (perception, navigation, control)  
 - Outdoor/mobile robots (UGV, drones, RC-scale platforms)  
 - AI + embedded real-time systems
 
-### ⚙️ Interests  
+## ⚙️ Interests  
 - Robotics  
 - Autonomous systems  
 - Efficient engineering design  
 - Practical AI  
 
-### 📘 Currently learning
+## 📘 Currently learning
 - Scaling real-time perception pipelines (YOLOv8 optimisation)
 - ROS2 navigation stack (Nav2, localisation, path planning)
 - Embedded Linux for robotics deployment
 - High-reliability autonomous systems design
 
-### 🎯 Aiming for
+## 🎯 Aiming for
 - Roles in robotics, autonomous systems, and applied AI  
 - Building intelligent machines that operate reliably in the real world  
 
-### ⚡ Fun facts
+## ⚡ Fun facts
 - I optimise daily life for efficiency and sustainability  
 - Passionate about ICE cars and engineering design  
 - Planning a fully solar-powered lifestyle  
 
-### ⚡ Engineering philosophy
+## ⚡ Engineering philosophy
 - Build systems that work outside controlled environments
 - Prioritise reliability over demos
 - Design for real-world constraints (latency, noise, failure cases)
 
-### 📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
+## 📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
