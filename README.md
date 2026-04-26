@@ -7,7 +7,7 @@
 Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2026 • WAM 75.67% • First Class Honours  
 I design and build end-to-end autonomous robotic systems (perception, planning, control) that work reliably outside the lab.
 
-Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control • Real-time systems <br>
+Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control • Real-time systems <br><br><br>
 
 
 ### 🚀 Project Highlights
