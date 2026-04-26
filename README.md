@@ -9,6 +9,7 @@ I design and build end-to-end autonomous robotic systems (perception, planning, 
 
 Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control • Real-time systems
 
+
 ### 🚀 Project Highlights
 <div align="center">
 <table>
@@ -37,6 +38,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 </table>
 </div>
 
+
 ### 🛠 Tech Stack
 <div align="center">
 <table>
@@ -58,6 +60,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
   </tr>
 </table>
 </div>
+
 
 ### 🤝 Looking to collaborate on
 - Autonomous robotics systems (perception, navigation, control)  
