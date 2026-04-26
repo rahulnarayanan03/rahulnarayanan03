@@ -9,7 +9,7 @@ I design and build end-to-end autonomous robotic systems (perception, planning, 
 
 Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control • Real-time systems
 
----
+--
 
 ### 🚀 Project Highlights
 <div align="center">
@@ -39,7 +39,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 </table>
 </div>
 
----
+--
 
 ### 🛠 Tech Stack
 <div align="center">
@@ -63,7 +63,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 </table>
 </div>
 
----
+--
 
 ### 🤝 Looking to collaborate on
 - Autonomous robotics systems (perception, navigation, control)  
@@ -71,7 +71,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 - AI + embedded real-time systems
 
 
----
+--
 
 ### ⚙️ Interests  
 - Robotics  
@@ -80,7 +80,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 - Practical AI  
 
 
----
+--
 
 ### 📘 Currently learning
 - Scaling real-time perception pipelines (YOLOv8 optimisation)
@@ -89,14 +89,14 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 - High-reliability autonomous systems design
 
 
----
+--
 
 ### 🎯 Aiming for
 - Roles in robotics, autonomous systems, and applied AI  
 - Building intelligent machines that operate reliably in the real world  
 
 
----
+--
 
 ### ⚡ Fun facts
 - I optimise daily life for efficiency and sustainability  
@@ -104,7 +104,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 - Planning a fully solar-powered lifestyle  
 
 
----
+--
 
 ### ⚡ Engineering philosophy
 - Build systems that work outside controlled environments
@@ -112,6 +112,6 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
 - Design for real-world constraints (latency, noise, failure cases)
 
 
----
+--
 
 ### 📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
