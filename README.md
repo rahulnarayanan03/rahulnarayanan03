@@ -8,8 +8,7 @@ Final-year Mechatronics Engineering (Honours) student @ UTS • Graduating Nov 2
 I design and build end-to-end autonomous robotic systems (perception, planning, control) that work reliably outside the lab.
 
 Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control • Real-time systems
-
-<p></p>
+<br>
 
 ### 🚀 Project Highlights
 <div align="center">
@@ -38,8 +37,7 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
   </tr>
 </table>
 </div>
-
-<p></p>
+<br>
 
 ### 🛠 Tech Stack
 <div align="center">
@@ -62,50 +60,43 @@ Focus: Autonomous robotics • Perception (YOLOv8, LiDAR) • Embedded control �
   </tr>
 </table>
 </div>
-
-<p></p>
+<br>
 
 ### 🤝 Looking to collaborate on
 - Autonomous robotics systems (perception, navigation, control)
 - Outdoor/mobile robots (UGV, drones, RC-scale platforms)
 - AI + embedded real-time systems
-
-<p></p>
+<br>
 
 ### ⚙️ Interests
 - Robotics
 - Autonomous systems
 - Efficient engineering design
 - Practical AI
-
-<p></p>
+<br>
 
 ### 📘 Currently learning
 - Scaling real-time perception pipelines (YOLOv8 optimisation)
 - ROS2 navigation stack (Nav2, localisation, path planning)
 - Embedded Linux for robotics deployment
 - High-reliability autonomous systems design
-
-<p></p>
+<br>
 
 ### 🎯 Aiming for
 - Roles in robotics, autonomous systems, and applied AI
 - Building intelligent machines that operate reliably in the real world
-
-<p></p>
+<br>
 
 ### ⚡ Fun facts
 - I optimise daily life for efficiency and sustainability
 - Passionate about ICE cars and engineering design
 - Planning a fully solar-powered lifestyle
-
-<p></p>
+<br>
 
 ### ⚡ Engineering philosophy
 - Build systems that work outside controlled environments
 - Prioritise reliability over demos
 - Design for real-world constraints (latency, noise, failure cases)
-
-<p></p>
+<br>
 
 ### 📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/rahul-narayanan-mtrn)
